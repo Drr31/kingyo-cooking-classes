@@ -25,12 +25,12 @@ Le site met en avant l’école de cuisine fictive **KINGYO** à travers une int
 
 ## 📂 Structure du projet
 
-
+```
 kingyo-cooking-classes/
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 
 
 ## ✍️ Auteur
